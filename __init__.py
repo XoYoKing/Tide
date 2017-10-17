@@ -2,9 +2,9 @@
 """
 ***************************************************************************
 @version: python2.7.5 
-@author: 'xinuo'
+@author: 'kingdom'
 @license: Apache Licence 
-@contact: xinuo@xinuo.com
+@contact: 995350347@qq.com
 @site: 
 @software: PyCharm
 @file: __init__.py.py
